@@ -4,14 +4,20 @@ This is an Angular project showcasing a simple photo lookup using a public Flick
 
 ![](demo.gif)
 
-
 More information about Flickr API:
 
 https://www.flickr.com/services/api/
 
 ## Installation
 
+Install angular CLI globally:
+
+```
+npm install -g @angular/cli
+```
+
 In the project folder, type:
+
 ```
 npm install
 ```
@@ -22,6 +28,7 @@ That key has to be set inside environment/environment.ts file.
 ## Usage
 
 In the project folder, type:
+
 ```
 ng serve
 ```
